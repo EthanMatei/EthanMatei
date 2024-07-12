@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @EthanMatei
-- 🌱 I’m currently studying Computer Engineering at Purdue University
+- 🏫 I’m currently studying Computer Engineering at Purdue University
 - 📫 How to reach me  mateiethan@gmail.com
 - ⚡ Interested in anything to help me learn !
-- ⚡ I love cars, playing music, and staying healthy
+- 🎸 I love cars, playing music, and staying healthy
+- 🌀 Software Developer Intern at MindX Sciences
